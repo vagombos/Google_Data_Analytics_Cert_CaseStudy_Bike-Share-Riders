@@ -120,7 +120,7 @@ _R and Tableau Approach_
 
 ![Average_Ride_Duration_for_Members_and_Casual_Riders.png](Images/Average_Ride_Duration_for_Members_and_Casual_Riders.png)     
 
-### Recommendations based on R and Tableau Approach:
+### Conclusions and Recommendations based on R and Tableau Approach:
 - Because casual riders have longer ride durations than members, we may need to further investigate whether shorter rides (thus allowing more bikes to be rented through circulation with more riders) or longer rides (if rented by the minute) would be more profitable.
 	* If shorter rides lead to more profitability, perhaps a campaign that encourages casual riders to shorten the distance of their pick up and drop offs would be beneficial. 
 	* If longer rides are more profitable, and as our stakeholders want to focus on casual riders for their campaign, then encouraging longer rides during the middle of the week for casual may be able to increase profits (as they tend to only have longer rides on weekends).
