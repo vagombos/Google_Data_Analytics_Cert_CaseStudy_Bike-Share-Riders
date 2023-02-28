@@ -121,10 +121,12 @@ _R and Tableau Approach_
 ![Average_Ride_Duration_for_Members_and_Casual_Riders.png](Images/Average_Ride_Duration_for_Members_and_Casual_Riders.png)     
 
 ### Recommendations based on R and Tableau Approach:
-	- Because casual riders have longer ride durations than members, we may need to further investigate whether shorter rides (thus allowing more bikes to be rented through circulation with more riders) or longer rides (if rented by the minute) would be more profitable. If shorter rides lead to more profitability, perhaps a campaign that encourages casual riders to shorten the distance of their pick up and drop offs would be beneficial. If longer rides are more profitable, and as our stakeholders want to focus on casual riders for their campaign, then encouraging longer rides during the middle of the week for casual may be able to increase profits (as they tend to only have longer rides on weekends).
-	- If we are interested in getting more casual riders to subscribe and become members, then it's possible that a marketing campaign that emphasizes the benefits of using Bike-Share for commuting, not just weekend use, might lead to more subscribers.  
-
+- Because casual riders have longer ride durations than members, we may need to further investigate whether shorter rides (thus allowing more bikes to be rented through circulation with more riders) or longer rides (if rented by the minute) would be more profitable.
+	* If shorter rides lead to more profitability, perhaps a campaign that encourages casual riders to shorten the distance of their pick up and drop offs would be beneficial. 
+	* If longer rides are more profitable, and as our stakeholders want to focus on casual riders for their campaign, then encouraging longer rides during the middle of the week for casual may be able to increase profits (as they tend to only have longer rides on weekends).
+- If we are interested in getting more casual riders to subscribe and become members, then it's possible that a marketing campaign that emphasizes the benefits of using Bike-Share for commuting, not just weekend use, might lead to more subscribers.  
+- - - 
 ## Key Takeaways from Analyses
-#1 **Casual riders ride more (and longer) on weekends** than mid-week; **members use Bike-Share more during the work week**, suggesting that they are more likely to be commuters than recreational bike riders.
-#2 **Casual riders prefer electric bikes to classic bikes compared members**, who proportionally are more evenly split between bike types.
-#3 **Casual riders have more time with docked bikes than members**. This wasted time while bikes are docked may provide an opportunity for increased revenue.
+1.  **Casual riders ride more (and longer) on weekends** than mid-week; **members use Bike-Share more during the work week**, suggesting that they are more likely to be commuters than recreational bike riders.  
+2.  **Casual riders prefer electric bikes to classic bikes compared members**, who proportionally are more evenly split between bike types.  
+3.  **Casual riders have more time with docked bikes than members**. This wasted time while bikes are docked may provide an opportunity for increased revenue.  
